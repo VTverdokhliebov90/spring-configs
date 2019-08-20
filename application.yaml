@@ -1,2 +1,3 @@
-config:
-  name: 'From config server yaml property file'
+myapp:
+  config:
+    name: 'From config server yaml property file'
