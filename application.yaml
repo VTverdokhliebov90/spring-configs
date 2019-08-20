@@ -1,3 +1,2 @@
-myapp:
-  config:
-    name: From config server yaml property file
+config:
+  name: From local yaml property file
